@@ -13,33 +13,31 @@
     left: 0;
     background-color: #111;
     overflow-x: hidden;
-    padding-top: 20px;
+    padding-top: 25px;
   }
 
 
   .sidenav p {
     /* padding: 6px 8px 6px 16px; */
     text-decoration: none;
-    color: #818181;
+    color: whitesmoke;
       }
 
 
   .main {
     margin-left: 240px; /* Same as the width of the sidenav */
     padding:12px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
   }
 
   p {
-    font-size: 18px;
+    font-size: 19px;
     padding: 0;
 } 
-.sidenav u {
-    color: orange;
-    padding-right: 30px;
-}
 
 .small{
-  font-size: 13px !important;
     margin-bottom: 0px!important;
 }
 
